@@ -1,3 +1,0 @@
-# todos
- 
-- close explorer on open
