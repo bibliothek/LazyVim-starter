@@ -1,5 +1,3 @@
 # todos
  
-
-- add other lsps
 - close explorer on open
