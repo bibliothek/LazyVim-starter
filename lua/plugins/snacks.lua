@@ -10,5 +10,8 @@ return {
     scroll = {
       enabled = false,
     },
+    dashboard = {
+      enabled = false,
+    },
   },
 }
